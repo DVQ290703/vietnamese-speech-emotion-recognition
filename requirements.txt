@@ -3,22 +3,21 @@ torchaudio
 transformers
 datasets
 accelerate
+peft
+soundfile
+huggingface_hub
+gradio
+sentencepiece
 
 evaluate
 jiwer
 
 librosa
-soundfile
 
 numpy
 pandas
 
 scikit-learn
-
-fastapi
-uvicorn
-
-streamlit
 
 pyyaml
 python-dotenv

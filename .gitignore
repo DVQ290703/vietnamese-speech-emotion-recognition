@@ -2,13 +2,23 @@ venv/
 .venv/
 
 __pycache__/
+*.pyc
+*.pyd
+*.pyo
 
 data/raw/
 data/processed/
 
 models/checkpoints/
 models/best/
+*.pt
+*.bin
+*.safetensors
 
 .ipynb_checkpoints/
 
 .env
+.vscode/
+
+logs/
+outputs/
